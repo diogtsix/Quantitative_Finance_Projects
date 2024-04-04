@@ -7,7 +7,7 @@ If a project contains jupiter notebooks instead of python files, then there is a
 
 Current projects in this repository : 
 
-1) Algorithmic Trading with ML in Python : 3 Projects 
+1) Algorithmic_Trading_ML_Python : 3 Projects 
 
             - Unsupervised Learning Trading Strategy
             - Twitter Sentiment Investing Strategy
