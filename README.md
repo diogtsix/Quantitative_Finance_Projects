@@ -52,4 +52,6 @@ To get started with the project, ensure you have Python installed with the neces
         - Clone the repository
         - pip install -r LSTM_Stock_Predictions_Web_App/requirements.txt
         - run all cells from LSTM.ipynb (to create and save the model)
-        - python launch_web_app.py
+        - Update hardcoded path of the model in the lunch_wev_app.py
+        - Run lunch_web_app.py in dedicated terminal 
+        - When asked in the terminal enter : "streamlit run <path of the lunch_web_app.py>
