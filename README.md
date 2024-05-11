@@ -7,7 +7,7 @@ If a project contains jupiter notebooks instead of python files, then there is a
 
 Current projects in this repository : 
 
-1) Algorithmic_Trading_ML_Python : 3 Projects 
+## 1) Algorithmic_Trading_ML_Python : 3 Projects 
 
             - Unsupervised Learning Trading Strategy
             - Twitter Sentiment Investing Strategy
@@ -15,7 +15,7 @@ Current projects in this repository :
 
     To run the code install the dependacies from : Algorithmic_Trading_ML_Python\reguirements.txt
 
-2) LSTM_Stock_Prediction_Web_app
+## 2) LSTM_Stock_Prediction_Web_app
 
     ## **Project: LSTM Model and Web Application for Stock Price Prediction**
 
@@ -55,3 +55,9 @@ To get started with the project, ensure you have Python installed with the neces
         - Update hardcoded path of the model in the lunch_wev_app.py
         - Run lunch_web_app.py in dedicated terminal 
         - When asked in the terminal enter : "streamlit run <path of the lunch_web_app.py>
+
+## 3) Algorithmic_Trading_Simple_Projects : 3 Small and Basic Projects 
+
+            - Equal_Weight_SPY_Screener_Project
+            - Quantitative_Momentum_Strategy_Project
+            - Quantitative_Value_Strat
